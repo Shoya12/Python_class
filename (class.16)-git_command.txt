@@ -1,0 +1,12 @@
+initiazilating git:
+> git init 
+adding files to git :
+  git add. 
+adding a spefic file in a git :
+  git add filename
+moving from local to repositry:
+ git remote add origin "url"
+pushing command in local to repositry: 
+ git push orgin main 
+
+ 
