@@ -1,0 +1,26 @@
+While making a software , SDLC is followed  , 
+it means (Software  Devlopment Life Cycle)
+it consits of : 
+---Planning: Define the overall scope, goals, estimated costs,
+and resource allocations for the project.
+
+---Requirements Analysis: Gather detailed functional and non-functional expectations 
+from stakeholders and document them in a Software Requirement Specification (SRS)
+
+---Design: Translate the requirements into a technical blueprint,
+specifying system architecture, user interfaces, and database structures.
+
+---Development (Coding): Write the actual code 
+to build functional components and features according to the design specifications.
+
+---Testing: Run unit, integration, and system tests to catch 
+and eliminate bugs or defects before release.Usually contains 
+two main aspects: Vefirication and Validation.Many types of testing 
+unit testing , validity testing 
+
+---Deployment: Release the working application to
+the production environment so end-users can access it.
+
+---Maintenance: Provide ongoing support, patch bugs, 
+and roll out performance enhancements or new features
+

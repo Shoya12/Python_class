@@ -7,6 +7,6 @@ adding a spefic file in a git :
 moving from local to repositry:
  git remote add origin "url"
 pushing command in local to repositry: 
- git push orgin main 
+ git push origin main 
 
  
